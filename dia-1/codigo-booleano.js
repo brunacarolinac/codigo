@@ -12,7 +12,7 @@ if (numeroUm === parseInt(stringUm)) {
 }
 
 if (numeroTrinta === parseInt(stringTrinta)) {
-  console.log('As variáveis numeroTrinta e stringTrinta têm o mesmo valor e mesmo tipo');
+  console.log('As variáveis numeroTrinta e stringTrinta têm o mesmo valor, mas tipos diferente');
 } else {
   console.log('As variáveis numeroTrinta e stringTrinta não têm o mesmo tipo');
 }
